@@ -17,6 +17,7 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
     "electron": "~1.6.2"
   },
   "dependencies": {
